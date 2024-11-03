@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Chocolate",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Chocolate contains theobromine and caffeine, both of which are highly toxic to cats. Even a small amount can cause severe symptoms, including vomiting, diarrhea, rapid breathing, tremors, and even death. If your cat ingests chocolate, seek veterinary help immediately.",
+    "tips": ""
+  },
+  {
+    "name": "Onions",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Onions contain thiosulfate, which is toxic to cats and can lead to a dangerous condition called hemolytic anemia. This can cause weakness, lethargy, pale gums, and loss of appetite. If ingested, contact a veterinarian.",
+    "tips": ""
+  },
+  {
+    "name": "Garlic",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Garlic is highly toxic to cats and can lead to severe gastrointestinal upset and damage to red blood cells, resulting in anemia. Symptoms can include vomiting, diarrhea, lethargy, and abdominal pain. Seek veterinary assistance if consumed.",
+    "tips": ""
+  },
+  {
+    "name": "Alcohol",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Even small amounts of alcohol can be deadly to cats, leading to severe liver and brain damage. Symptoms include vomiting, difficulty breathing, loss of coordination, and in extreme cases, coma or death.",
+    "tips": ""
+  },
+  {
+    "name": "Caffeine",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Caffeine is highly toxic to cats and can cause symptoms like rapid breathing, heart palpitations, restlessness, and tremors. Even a small amount can have serious effects, so keep all caffeinated items out of reach.",
+    "tips": ""
+  },
+  {
+    "name": "Grapes",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Grapes and raisins can cause sudden kidney failure in cats, though the exact mechanism is unknown. Symptoms may include vomiting, lethargy, and abdominal pain. Immediate veterinary assistance is necessary if consumed.",
+    "tips": ""
+  },
+  {
+    "name": "Raisins",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Raisins are just as dangerous as grapes for cats, potentially causing sudden kidney failure. Keep all forms of grapes and raisins away from cats, and contact a vet if ingested.",
+    "tips": ""
+  },
+  {
+    "name": "Raw Dough",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Raw dough can expand in a cat's stomach, leading to severe bloating and potentially life-threatening complications. Additionally, fermentation can produce alcohol, further increasing toxicity risk.",
+    "tips": ""
+  },
+  {
+    "name": "Xylitol",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Xylitol, an artificial sweetener, is highly toxic to cats. Ingesting xylitol can cause a sudden drop in blood sugar, leading to seizures, lethargy, and potentially liver failure.",
+    "tips": ""
+  },
+  {
+    "name": "Raw Fish",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Raw fish may contain harmful bacteria or parasites that can cause food poisoning in cats. Additionally, raw fish contains an enzyme that destroys thiamine, an essential B vitamin, potentially leading to neurological issues.",
+    "tips": ""
+  },
+  {
+    "name": "Milk",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Most cats are lactose intolerant, meaning milk can cause digestive issues such as diarrhea, vomiting, and stomach discomfort. Use lactose-free milk specifically made for cats if needed.",
+    "tips": ""
+  },
+  {
+    "name": "Avocado",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Avocado contains persin, a substance that can be toxic to cats. Ingestion can lead to gastrointestinal upset, including vomiting and diarrhea. In severe cases, it can cause breathing issues and fluid accumulation around the heart.",
+    "tips": ""
+  },
+  {
+    "name": "Bones",
+    "canEat": "No",
+    "level": "Dangerous",
+    "description": "Cooked bones can splinter and cause blockages or tears in a cat's digestive tract. Even raw bones pose a choking hazard and may contain harmful bacteria.",
+    "tips": ""
+  },
+  {
+    "name": "Tomatoes",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Unripe tomatoes and tomato plants contain solanine, a toxic compound that can cause gastrointestinal distress, lethargy, and even heart problems in cats. Ripe tomatoes may be less toxic but should still be avoided.",
+    "tips": ""
+  },
+  {
+    "name": "Raw Eggs",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Raw eggs carry a risk of salmonella or E. coli infection in cats, leading to severe digestive upset. Additionally, raw egg whites contain avidin, which interferes with biotin absorption and can cause skin and coat issues.",
+    "tips": ""
+  },
+  {
+    "name": "Tuna",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "While tuna may be appealing to cats, too much can lead to malnutrition and mercury poisoning. Tuna lacks essential nutrients cats need, and high consumption can lead to health issues.",
+    "tips": "If giving tuna as an occasional treat, make sure it is specifically formulated for cats and contains added nutrients."
+  },
+  {
+    "name": "Fat Trimmings",
+    "canEat": "No",
+    "level": "Dangerous",
+    "description": "Fat trimmings from meat, whether cooked or raw, can lead to pancreatitis in cats. Symptoms of pancreatitis include abdominal pain, vomiting, and lethargy.",
+    "tips": ""
+  },
+  {
+    "name": "Yeast Dough",
+    "canEat": "No",
+    "level": "Dangerous",
+    "description": "Yeast dough can expand in a cat’s stomach, causing bloating and discomfort. As it rises, it also produces alcohol, which can lead to alcohol poisoning if ingested.",
+    "tips": ""
+  },
+  {
+    "name": "Chives",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Chives are part of the allium family (along with onions and garlic) and can cause gastrointestinal upset and red blood cell damage in cats, leading to anemia if consumed.",
+    "tips": ""
+  },
+  {
+    "name": "Human Medications",
+    "canEat": "No",
+    "level": "Highly Toxic",
+    "description": "Certain medications, such as acetaminophen and ibuprofen, are extremely toxic to cats and can cause organ failure or death. Even small doses can have severe effects.",
+    "tips": "Always store medications out of reach, and consult a vet for any medications meant for cats."
+  },
+  {
+    "name": "Potatoes (Green)",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Green potatoes contain solanine, a toxic compound that can cause vomiting, diarrhea, and lethargy. Cooked or ripe potatoes may be less toxic but should still be avoided.",
+    "tips": ""
+  },
+  {
+    "name": "Wild Mushrooms",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Certain types of wild mushrooms are highly toxic to cats and can cause severe symptoms like vomiting, diarrhea, liver damage, and even death. Store-bought mushrooms are safer but should still be avoided.",
+    "tips": ""
+  },
+  {
+    "name": "Green Tea",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Green tea contains caffeine, which is toxic to cats. Even small amounts can cause symptoms such as restlessness, rapid breathing, heart palpitations, and tremors.",
+    "tips": ""
+  },
+  {
+    "name": "Lemons",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Lemons contain citric acid and essential oils that are toxic to cats. Ingestion can cause vomiting, diarrhea, depression, and even photosensitivity.",
+    "tips": "Keep lemons and lemon-flavored foods out of reach of cats."
+  },
+  {
+    "name": "Nutmeg",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Nutmeg contains myristicin, a compound toxic to cats. Ingesting nutmeg can lead to hallucinations, increased heart rate, and high blood pressure.",
+    "tips": ""
+  },
+  {
+    "name": "Walnuts",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Walnuts are high in fat and can lead to digestive issues in cats. In some cases, moldy walnuts contain tremorgenic mycotoxins, which can cause seizures and tremors.",
+    "tips": "Avoid giving cats any type of nuts, especially moldy ones."
+  },
+  {
+    "name": "Cinnamon",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "While not highly toxic, cinnamon can cause skin and mouth irritation, coughing, and even liver damage in large amounts if consumed by cats.",
+    "tips": ""
+  },
+  {
+    "name": "Peaches (Pits)",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "The pits of peaches contain cyanogenic compounds, which are toxic to cats. Ingestion can cause difficulty breathing, drooling, and even collapse.",
+    "tips": "Dispose of peach pits properly to keep them out of a cat's reach."
+  },
+  {
+    "name": "Apricots (Pits)",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Apricot pits contain cyanide, which is toxic to cats. Symptoms of poisoning can include dilated pupils, difficulty breathing, and a decreased heart rate.",
+    "tips": ""
+  },
+  {
+    "name": "Rhubarb",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Rhubarb leaves contain oxalic acid, which can cause kidney failure in cats. Symptoms include drooling, vomiting, diarrhea, and tremors.",
+    "tips": "Keep rhubarb and rhubarb plants away from cats."
+  },
+  {
+    "name": "Salt",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Excess salt can lead to sodium ion poisoning in cats, causing symptoms like vomiting, diarrhea, tremors, and even death.",
+    "tips": "Avoid feeding cats salty human foods, such as chips and pretzels."
+  },
+  {
+    "name": "Apple Seeds",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Apple seeds contain cyanogenic glycosides, which release cyanide when chewed and can be toxic to cats. Symptoms may include difficulty breathing, vomiting, and lethargy.",
+    "tips": "If feeding apples as a treat, always remove the seeds."
+  },
+  {
+    "name": "Cherries",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Cherries, especially the seeds and leaves, contain cyanide compounds, which are toxic to cats. Symptoms include dilated pupils, difficulty breathing, and shock.",
+    "tips": ""
+  },
+  {
+    "name": "Mustard Seeds",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Mustard seeds can cause gastrointestinal upset in cats, leading to symptoms such as vomiting and diarrhea. It can also irritate their mouth and throat.",
+    "tips": ""
+  },
+  {
+    "name": "Plum (Pits and Leaves)",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Plum pits and leaves contain cyanogenic compounds that are toxic to cats. Symptoms of poisoning include vomiting, drooling, difficulty breathing, and potentially death.",
+    "tips": "Dispose of plums properly, ensuring pits and leaves are inaccessible to cats."
+  },
+  {
+    "name": "Macadamia Nuts",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Macadamia nuts can cause lethargy, vomiting, hyperthermia, and tremors in cats. Although rare, ingestion should be avoided.",
+    "tips": ""
+  },
+  {
+    "name": "Baking Powder & Baking Soda",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Both baking powder and baking soda can cause electrolyte imbalances in cats, leading to muscle spasms, heart failure, and even death.",
+    "tips": "Store these items securely and out of reach."
+  },
+  {
+    "name": "Raw Chicken",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Raw chicken can contain harmful bacteria like Salmonella and E. coli, which can lead to food poisoning in cats. Symptoms may include vomiting, diarrhea, and lethargy.",
+    "tips": "Cook chicken thoroughly if feeding to a cat, and avoid seasoning or added ingredients."
+  },
+  {
+    "name": "Cilantro",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Cilantro is not highly toxic but can cause gastrointestinal upset in cats. Cats may experience vomiting or diarrhea if they ingest cilantro.",
+    "tips": ""
+  },
+  {
+    "name": "Kale",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Kale contains compounds that may lead to Heinz body anemia in cats if consumed regularly or in large quantities, which damages red blood cells.",
+    "tips": "Avoid giving cats any leafy greens not specifically recommended by veterinarians."
+  },
+  {
+    "name": "Pomegranate",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Pomegranate can cause stomach upset in cats due to its high acidity and complex compounds, which are difficult for cats to digest.",
+    "tips": "Avoid fruits that are not commonly safe for cats, like apples or blueberries in small quantities."
+  },
+  {
+    "name": "Almonds",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Almonds are high in fat, which can lead to digestive upset or pancreatitis in cats. They may also pose a choking hazard.",
+    "tips": "Keep all nuts away from cats as they are generally difficult to digest."
+  },
+  {
+    "name": "Figs",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Figs can cause irritation in a cat's mouth and digestive tract, leading to symptoms like drooling, vomiting, and diarrhea.",
+    "tips": ""
+  },
+  {
+    "name": "Beef Jerky",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Beef jerky often contains high levels of salt and spices that are harmful to cats. Excess salt can lead to sodium poisoning.",
+    "tips": "Avoid giving any processed meats to cats, especially those containing spices or salt."
+  },
+  {
+    "name": "Blue Cheese",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Blue cheese contains a fungus that produces roquefortine C, which is toxic to cats and can cause vomiting, diarrhea, and even tremors or seizures.",
+    "tips": "All cheese should be limited for cats, but blue cheese is especially dangerous."
+  },
+  {
+    "name": "Persimmons",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Persimmons can cause stomach upset in cats, especially the seeds, which may lead to blockages in the intestines.",
+    "tips": ""
+  },
+  {
+    "name": "Popcorn",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Popcorn itself isn’t toxic, but the butter, salt, and seasonings commonly added can cause digestive upset or even sodium poisoning in cats.",
+    "tips": "If you want to give your cat a treat, avoid human snacks with added salt or seasonings."
+  },
+  {
+    "name": "Processed Meats",
+    "canEat": "No",
+    "level": "Harmful",
+    "description": "Processed meats like ham, salami, and bacon are high in salt and fat, which can lead to digestive issues and pancreatitis in cats.",
+    "tips": "Stick to plain, cooked meats without seasonings if you’re giving meat treats to cats."
+  },
+  {
+    "name": "Spicy Peppers",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Spicy peppers can cause severe irritation in a cat's mouth and digestive tract. Symptoms include drooling, vomiting, and stomach pain.",
+    "tips": "Avoid any spicy foods around cats, as their systems are sensitive to capsaicin found in hot peppers."
+  },
+  {
+    "name": "Peppers (Bell)",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Bell peppers, while non-toxic, can be hard for cats to digest and may cause mild gastrointestinal discomfort if eaten in large amounts.",
+    "tips": ""
+  },
+  {
+    "name": "Starfruit",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Starfruit contains oxalates, which can be toxic to cats and may cause kidney damage. Symptoms include vomiting, drooling, and lethargy.",
+    "tips": "Avoid all fruits with high oxalate levels if feeding fruits to cats."
+  },
+  {
+    "name": "Broccoli",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Broccoli can cause gastrointestinal upset in some cats due to its fiber content, leading to gas or mild diarrhea.",
+    "tips": "If giving vegetables, use small portions and avoid high-fiber options."
+  },
+  {
+    "name": "Cauliflower",
+    "canEat": "No",
+    "level": "Irritant",
+    "description": "Cauliflower can cause digestive issues in cats, including gas and bloating. It is best avoided in large amounts.",
+    "tips": ""
+  }
+
+]

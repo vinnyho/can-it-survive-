@@ -1,0 +1,360 @@
+[
+  {
+    "name": "Grapes",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Grapes are extremely harmful or even fatal to dogs. Though some dogs aren't seriously affected, reactions are entirely unpredictable. Just a few grapes can cause severe complications like rapid loss of kidney function and acute renal failure. If your dog ate some grapes immediately go to a veterinarian.",
+    "tips": ""
+  },
+  {
+    "name": "Grape",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Grapes are extremely harmful or even fatal to dogs. Though some dogs aren't seriously affected, reactions are entirely unpredictable. Just a few grapes can cause severe complications like rapid loss of kidney function and acute renal failure. If your dog ate some grapes immediately go to a veterinarian.",
+    "tips": ""
+  },
+
+  {
+    "name": "Raisins",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Raisins are extremely harmful or even fatal to dogs. Though some dogs aren't seriously affected, reactions are entirely unpredictable. Just a few raisins can cause severe complications like rapid loss of kidney function and acute renal failure. If your dog ate some raisins immediately go to a veterinarian.",
+    "tips": ""
+  },
+  {
+    "name": "Eggs",
+    "canEat": "Yes",
+    "level": "Yes",
+    "description": "Eggs are safe for dogs to consume and contain plenty of vitamins and minerals as well as proteins which are absolutely beneficial for dogs. Cooked eggs also soothe upset stomachs. Animals in poor health or those with weakened immune systems should not be fed raw eggs because any sort of contamination could cause complications.",
+    "tips": "Avoid raw eggs, few servings per week"
+  },
+  {
+    "name": "Chocolate",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Chocolate is poisonous to dogs and should never be considered as a reward. Everything from seizures to an irregular heartbeat to internal bleeding can develop when your dog eats chocolate. Chocolate is toxic mostly because of its theobromine content, which dogs are unable to metabolize effectively. If your dog eats chocolate, you should contact your veterinarian as soon as possible for advice and monitor them closely.",
+    "tips": ""
+  },
+  {
+    "name": "Avocados",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Although small amounts of the mushy inside of the avocado won't harm your dog it might cause an upset stomach due to the fact that dogs don't process plant-based foods as well as humans. However, be aware that the avocado's pit and skin contains an oil-soluble compound known as Persin which is quite toxic to animals and humans. Because every animal's tolerance for specific foods is a bit different and sensitivity varies from pet to pet make sure to monitor your dog afterwards and report any vomiting, diarrhea or signs of abdominal discomfort to your veterinarian. You should take them to the vet immediately if they choke on the pit or seed.",
+    "tips": "A tiny amount may not end up being harmful, avoid the pit and skin"
+  },
+  {
+    "name": "Yogurt",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Like any dairy product, your dog might have trouble digesting yogurt, but each dog is different. Yogurt builds up the good bacteria in your dog's digestive system. Always feed them unsweetened, plain yogurt, if your dog tolerates dairy foods.",
+    "tips": "In moderation, unsweetened, plain yogurt"
+  },
+  {
+    "name": "Pears",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Pears slices make a delicious, healthy snack for your dog. However, the core of the pear and the pear seeds especially can be harmful to dogs. Pear seeds contain a small amount of cyanide which is released when they're broken or chewed. Every animal's tolerance for specific foods is a bit different so, to minimize a possibility of diarrhea or stomach upset, it is best to limit pears to a special treat only.",
+    "tips": "Cut up the pear into easily digestible slices, remove the seeds, stem and core and only feed a modest amount"
+  },
+  {
+    "name": "Milk",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Like all dairy products, milk contains lactose, which dogs have trouble digesting. You can give your dog a little milk but watch for digestive problems or bloating.",
+    "tips": "Limit amount"
+  },
+  {
+    "name": "Melons",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Melons are a wonderful treat for your dog with many health benefits. They are a refreshing treat and provide the nutritional benefits of iron, vitamin C and antioxidant. With that being said, canines generally do not process fruits as well as humans so limit frequency and portion size.",
+    "tips": "Remove seed and rind, cut it up into bite-size pieces"
+  },
+  {
+    "name": "Strawberries",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Strawberry is a fruit that makes for a delicious, healthy snack for your dog. Having anti-inflammatory and even anti-cancer properties can benefit your canine's health. Strawberries contain sugar, which some dogs have trouble handling. Any dog who eats too many can get an upset stomach and suffer from some gastrointestinal upset. They're best consumed in moderation, while you should ask your veterinarian about appropriate serving sizes for your individual dog.",
+    "tips": "Wash and clean strawberries, remove the stems, cut them into small bits or puree them"
+  },
+  {
+    "name": "Blackberries",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Blackberries are not toxic to dogs. There is nothing wrong with sharing some as an occasional treat. Any dog who eats too many can get an upset stomach and suffer from some gastrointestinal upset. They're best consumed in moderation, while you should ask your veterinarian about appropriate serving sizes for your individual dog.",
+    "tips": "Small amount"
+  },
+  {
+    "name": "Raspberries",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Raspberry is a fruit that makes for a delicious, healthy snack for your dog. Having anti-inflammatory and even anti-cancer properties can benefit your canine's health. Raspberries contain sugar, which some dogs have trouble handling. Any dog who eats too many can get an upset stomach and suffer from some gastrointestinal upset. They're best consumed in moderation, while you should ask your veterinarian about appropriate serving sizes for your individual dog.",
+    "tips": "Wash and clean raspberries, remove the stems, cut them into small bits or puree them"
+  },
+  {
+    "name": "Blueberries",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Blueberries are safe for you dog, whether you feed them fresh, frozen, dried, or mashed. Blueberries are rich in antioxidants, contain high amounts of vitamin C, fiber, and phytochemicals. As long as you portion the treat appropriately and are aware of any issues to watch out for, blueberries can carry tremendous health benefits for your dog.",
+    "tips": "Limit the amount"
+  },
+  {
+    "name": "Cherries",
+    "canEat": "Yes",
+    "level": "In Moderation",
+    "description": "Small amount of unprocessed cherries are safe for you dog. This fruit has antioxidants, natural melatonin, vitamins and lots of nutrients. However, the pit of the fruit contains small amounts of cyanide so it's best to remove the pits before feeding them to a dog.",
+    "tips": "Limit the amount, remove stems, pit and leaves"
+  },
+  {
+    "name": "Garlic",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Garlic fed sparingly in small portions to a full-grown dog is relatively safe. Do not feed garlic to puppies or anemic dogs. Also avoid feeding garlic prior to a surgery. Because every animal's tolerance for specific foods is a bit different and sensitivity varies from pet to pet make sure to monitor your dog afterwards and report any vomiting, diarrhea or signs of abdominal discomfort to your veterinarian.",
+    "tips": "A tiny amount may not end up being harmful, lookout for allergic reactions"
+  },
+  {
+    "name": "Onions",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Onions are not safe for dogs, it is of upmost importance to avoid feeding your dog onions in any form (cooked, raw, powder, juice, etc). Onions contain compounds called disulfides and thiosulphates which can be toxic to cats and dogs if ingested. They can cause anemia like Hemolytic Anemia which can be fatal. Moreover thiosulphates can destroy red blood cells which will hinder the delivery of oxygen to the organs. The effect might not be visible right away, days could go by before the first symptoms show up. While a tiny amount may not end up being harmful, it is best to play it safe and keep onions off limits. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested onions.",
+    "tips": ""
+  },
+  {
+    "name": "Walnuts",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Walnuts are not safe for dogs and are considered to be toxic. If your dog happens to eat a small amount of walnuts, it's likely nothing to worry about. But walnuts are definitely not safe to offer your dog as a treat because these particular nuts contain a toxin known as juglone, which can be harmful to them especially in large amounts. Walnuts can also cause mild stomach upset and gastrointestinal obstruction in dogs. It is highly recommended to contact your veterinarian regardless of how much walnuts were eaten.",
+    "tips": ""
+  },
+  {
+    "name": "Macadamia nuts",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Macadamia nuts are toxic to dogs and macadamia poisoning can be quite serious. Some of the effects are very similar to an allergic reaction. In addition, your dog may seem weak, they could become lethargic, vomit, have stomach pains or develop a fever. Macadamia nuts can also cause joint pain, ataxia (loss of coordination) or tremors. In any case, a veterinarian visit is highly recommended regardless of how many were eaten.",
+    "tips": ""
+  },
+  {
+    "name": "Pecans",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Pecans are not safe for dogs and are considered to be toxic. If your dog happens to eat a small amount of pecans, it's likely nothing to worry about. But pecans are definitely not safe to offer your dog as a treat because these particular nuts contain a toxin known as juglone, which can be harmful to them especially in large amounts. Pecans can also cause mild stomach upset and gastrointestinal obstruction in dogs. It is highly recommended to contact your veterinarian regardless of how many pecans were eaten.",
+    "tips": ""
+  },
+  {
+    "name": "Mushrooms",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Store brought mushrooms are generally safe for dogs to eat. However, mushrooms can cause negative reactions, including gastrointestinal issues or diarrhea. If your dog ingests a wild mushroom, you should immediately contact your veterinarian or your emergency veterinary hospital.",
+    "tips": "Only store brought, no wild mushrooms, modest amount"
+  },
+  {
+    "name": "Almonds",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Almonds can pose potential health problems for dogs and should be avoided. The canine's system does not properly digest the proteins in nuts and long-term consumption can result in long-term health concerns. Eating large quantities of almonds, whether all at once or frequent smaller amounts given regularly, can cause gastrointestinal distress, obesity, and pancreatitis. If your dog eats more than a few almonds contact your veterinarian for advice and monitor them closely.",
+    "tips": ""
+  },
+  {
+    "name": "Almond Butter",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Almond butter just like almonds can pose potential health problems for dogs and should be avoided. The canine's system does not properly digest the proteins in nuts and long-term consumption can result in long-term health concern. Eating large quantities of almond butter, whether all at once or frequent smaller amounts given regularly, can cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Bread Dough",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Raw bread dough that is made with yeast can be dangerous for dogs. After consumption the yeast in the dough continues to make the dough rise, distending the stomach and releasing toxic levels of ethanol into your dog's bloodstream. If your dog consumed bread dough, call your veterinarian immediately and look out for symptoms of alcohol toxicosis.",
+    "tips": ""
+  },
+  {
+    "name": "Cooked Bones",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Cooked bones should not be given to your dog. They become brittle and easily break into sharp shards that can do a lot of damage when they pass through the gastrointestinal tract.",
+    "tips": ""
+  },
+  {
+    "name": "Nutmeg",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Nutmeg is toxic to pets due to a compound in the nutmeg called Myristicin. Nutmeg could severely affect your pet's nervous system, cause seizures and even cause death. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested nutmeg.",
+    "tips": ""
+  },
+  {
+    "name": "Cinnamon",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "A small amount of cinnamon won't harm your dog. However, cinnamon is not a essential part of a dog's natural diet and should not be added as a daily supplement. Moreover, a large amount can irritate your dog's mouth and also, lower their blood sugar. If that happens, it can lead to vomiting, liver disease, heart rate fluctuations and diarrhea.",
+    "tips": ""
+  },
+  {
+    "name": "Cashews",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Feeding a few cashews won't be harmful to dogs but they are not recommended. Too much consumption may cause significant weight gain and even make you pet prone to osteoporosis and pancreatitis. This can occur in dogs if the cashews are eaten all at once or in smaller but more frequent amounts. The canine system is not designed to process nuts and they ultimately cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Chives",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Chives, like onions, are not safe for dogs. It is of upmost importance to avoid feeding your dog chives in any form (cooked, raw, powder, juice, etc). While a tiny amount may not end up being harmful, it is best to play it safe and keep chives off limits. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested chives.",
+    "tips": ""
+  },
+  {
+    "name": "Almond Milk",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "A moderate amount of almond milk is safe for your dog but allowing your dog to regularly drink almond milk is unnecessary and doesn't provide much or even any health benefits. Only feed your dog plain, unsweetened almond milk without added sugar and/or artificial ingredients. Also check the ingredient list for xylitol which is deadly to dogs.",
+    "tips": "Watch out for xylitol, use only plain, unsweetened almond milk, without additives"
+  },
+  {
+    "name": "Currants",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Currants are extremely harmful or even fatal to dogs. Though some dogs aren't seriously affected, reactions are entirely unpredictable. Just a few currants can cause severe complications like rapid loss of kidney function and acute renal failure. If your dog ate some currants immediately go to a veterinarian.",
+    "tips": ""
+  },
+  {
+    "name": "Pomegranate",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Pomegranate are not poisonous, however tummy troubles are a real possibility. Any dog who eats too many can get an upset stomach and suffer from some gastrointestinal upset. They're best consumed in moderation, while you should ask your veterinarian about appropriate serving sizes for your individual dog.",
+    "tips": "Small amount"
+  },
+  {
+    "name": "Sugar",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "You shouldn't feed your dog any sugar products. Added sugar can cause diabetes and weight gain in your dog.",
+    "tips": ""
+  },
+  {
+    "name": "Almond Flour",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Like almonds, almond flour can pose potential health problems for dogs and should be avoided. While almond flour isn't toxic, if your dog eats too much, it can cause stomach issues. There's no benefit associated with feeding almond flour to your dog.",
+    "tips": ""
+  },
+  {
+    "name": "Pistachios",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Although properly processed pistachios are not directly toxic to dogs they are not recommended. Eaten in large quantities pistachios can cause gastrointestinal distress, obesity, and pancreatitis. This can occur in dogs if the pistachios are eaten all at once or in smaller but more frequent amounts. The canine system is not designed to process nuts and they ultimately cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Alcohol",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Alcohol is toxic to dogs. If your dog consumed alcohol, call your veterinarian immediately and look out for symptoms of alcohol toxicosis.",
+    "tips": ""
+  },
+  {
+    "name": "Ethanol",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Ethanol is toxic to dogs. If your dog consumed ethanol, call your veterinarian immediately and look out for symptoms of alcohol toxicosis.",
+    "tips": ""
+  },
+  {
+    "name": "Xylitol",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Xylitol is extremely toxic to dogs. Even small amounts of xylitol can cause hypoglycemia (low blood sugar), seizures, liver failure or even death in dogs. Many foods labeled as sugar-free contain xylitol but this artificial sweetener is a sugar alcohol that can be deadly for your dog.",
+    "tips": ""
+  },
+  {
+    "name": "Caffeine",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Caffeine in any form (beverage, coffee grounds or beans, tea bags, diet pills) is toxic to dogs. Small amounts (for example a splash of coffee) might only make your dog sick and not irreparably harm them. However, if your dog consumed coffee grounds, it could lead to serious caffeine poisoning and prove fatal for the dog. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested caffeine.",
+    "tips": ""
+  },
+  {
+    "name": "Coffee",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Coffee in any form (beverage, coffee grounds or beans) is toxic to dogs. Small amounts like a splash of coffee might only make your dog sick and not irreparably harm them. However, if your dog consumed coffee grounds, it could lead to serious caffeine poisoning and prove fatal for the dog. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested coffee.",
+    "tips": ""
+  },
+  {
+    "name": "Black Tea",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Tea that contains caffeine is toxic to dogs. Small amounts might only make your dog sick and not irreparably harm them. However, large amounts can lead to serious caffeine poisoning and prove fatal for the dog. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested tea.",
+    "tips": ""
+  },
+  {
+    "name": "Green Tea",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Tea that contains caffeine is toxic to dogs. Small amounts might only make your dog sick and not irreparably harm them. However, large amounts can lead to serious caffeine poisoning and prove fatal for the dog. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested tea.",
+    "tips": ""
+  },
+  {
+    "name": "Energy Drinks",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Beverages that contains caffeine and/or sugar are harmful or even toxic to dogs. Dogs should never be given sugar. Moreover caffeine is toxic to dogs. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested caffeine.",
+    "tips": ""
+  },
+  {
+    "name": "Soda",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Beverages that contains caffeine and/or sugar are harmful or even toxic to dogs. Dogs should never be given sugar. Moreover caffeine is toxic to dogs. Some caffeine toxicity symptoms are hyperactivity, tremors, restlessness, vomiting, hypertension, seizures, elevated heart rate, fever or collapse. Contact your veterinarian or your emergency veterinary hospital if your dog has ingested caffeine.",
+    "tips": ""
+  },
+  {
+    "name": "Marshmallows",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "You shouldn't feed your dog any sugar products. Added sugar can cause diabetes and weight gain in your dog.",
+    "tips": ""
+  },
+  {
+    "name": "Chewing Gum",
+    "canEat": "No",
+    "level": "Toxic",
+    "description": "Most chewing gums contain xylitol which is extremely toxic to dogs. Even small amounts of xylitol can cause hypoglycemia (low blood sugar), seizures, liver failure or even death in dogs. Sugar-free gum without xylitol might not cause any ill effects however always contact your veterinarian as soon as possible for advice and monitor them closely.",
+    "tips": ""
+  },
+  {
+    "name": "Mayonnaise",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "While mayonnaise is not toxic to dogs it can pose potential health problems. Feeding your dog on a regular basis mayonnaise or other high fat foods can cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Butter",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "While butter is not toxic to dogs it can pose potential health problems. Feeding your dog on a regular basis butter or other high fat foods can cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Ice Cream",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Ice cream is not considered a dog-friendly food and it's not recommended. Most ice creams are high in sugar and you shouldn't feed your dog any sugar products. Added sugar can cause diabetes and weight gain in your dog. Sugar-free ice creams may contain xylitol that can be deadly for your dog. Moreover, if your dog is lactose intolerant it should never have ice cream.",
+    "tips": ""
+  },
+  {
+    "name": "Chips",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "While chips are not toxic to dogs they can pose potential health problems. Feeding your dog on a regular basis high fat foods can cause gastrointestinal distress, obesity, and pancreatitis.",
+    "tips": ""
+  },
+  {
+    "name": "Ketchup",
+    "canEat": "No",
+    "level": "Not Recommended",
+    "description": "Although small amounts of the ketchup won't harm your dog it might cause an upset stomach, that in most cases can result in diarrhea or vomiting.",
+    "tips": ""
+  }
+]
